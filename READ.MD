@@ -1,0 +1,1 @@
+Sunucunuza sadece SonOyuncu Minecraft Launcher ile girmesini sağlayabilecek bir Minecraft Bukkit eklentisidir. 1.16x-1.8x Arasında işlevlidir.
